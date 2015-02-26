@@ -1,5 +1,3 @@
-#include <Windows.h>
-#include <malloc.h>
 #include "tool.h"
 
 

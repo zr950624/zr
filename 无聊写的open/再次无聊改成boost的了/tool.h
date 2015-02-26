@@ -6,6 +6,8 @@
 #include <boost\regex.hpp>
 #include <iostream>
 #include <string>
+#include <Windows.h>
+
 #define LISTDIR 1
 #define ADDDIR 2
 #define OPENDIR 3
